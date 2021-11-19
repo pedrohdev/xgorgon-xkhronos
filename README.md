@@ -11,3 +11,8 @@
 </p>
 
 ### Princing 💲
+&nbsp;&nbsp; After 7 days trial **$15**/month
+
+### Contact
+- [Telegram]()
+- [Discord]()

@@ -11,7 +11,9 @@
 </p>
 
 ### Docs :closed_book:
-
+```curl
+POST http://localhost/api/generate
+```
 
 ### Princing 💲
 &nbsp;&nbsp; After 7 days trial **$15**/month

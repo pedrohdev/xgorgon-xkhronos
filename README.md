@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  The TikTok <strong>x-gorgon</strong> and <strong>x-khronos</strong> headers generation <strong>API</strong>
+  TikTok <strong>x-gorgon</strong> and <strong>x-khronos</strong> headers generation <strong>API</strong>
 </p>
 
 ### Princing 💲

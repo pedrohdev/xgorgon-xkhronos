@@ -20,14 +20,7 @@
 
 ### Docs 📕
 
-<dl>
-  <dd>
-    <p>
-      
-      ### d
-      
-    </p>
-  </dd>
-</dl> 
-
+```
+POST https://example.com/api/generate
+```
 

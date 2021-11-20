@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  <strong>Tiktok's internal API</strong> requires <strong>x-gorgon</strong> and <strong>x-khronos</strong> headers, and these can be acquired on this <strong>API</strong>
+  <strong>Tiktok's internal API</strong> requires <strong>x-gorgon</strong> and <strong>x-khronos</strong> headers. I will provide you a <strong>full-fledged API</strong>  with support
 </p>
 
 ### Princing 💲
@@ -16,3 +16,14 @@
 ### Contact
 - [Telegram]()
 - [Discord]()
+
+
+### Docs 📕
+
+<dl>
+  <dd> 
+    
+    POST https://example.com/api/generate
+
+  </dd>
+</dl>

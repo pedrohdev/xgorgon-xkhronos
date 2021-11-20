@@ -1,13 +1,9 @@
-<div align="center">
+<h1 align="center">
   <img src="images/banner.svg" width="500">
-</div>
-
-<h2 align="center">
-  TikTok X-Gorgon API 💻
-</h2>
+</h1>
 
 <p align="center">
-  <strong>Tiktok's internal API</strong> requires <strong>x-gorgon</strong> and <strong>x-khronos</strong> headers. I will provide you a <strong>full-fledged API</strong>  with support
+  The TikTok <strong>x-gorgon</strong> and <strong>x-khronos</strong> headers generation <strong>API</strong>
 </p>
 
 ### Princing 💲

@@ -7,7 +7,10 @@
 </p>
 
 ### Princing 💲
-&nbsp;&nbsp; After 7 days trial **$15**/month
+&nbsp;&nbsp; **7 days trial**
+
+- **$15** |  only **API**
+- **$25** | **API** and **source code**
 
 ### Contact
 - [Telegram]()

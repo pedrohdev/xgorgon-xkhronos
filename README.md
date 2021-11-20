@@ -13,8 +13,8 @@
 - **$25** | **API** and **source code**
 
 ### Contact
-- [Telegram]()
-- [Discord]()
+- [Telegram](https://t.me/pedrohenriquedev)
+- [Email](mailto:pedrohenriqueedeveloper@gmail.com)
 
 
 ### Docs 📕

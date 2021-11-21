@@ -9,7 +9,7 @@
 ### Princing 💲
 &nbsp;&nbsp; **7 days trial**
 
-- **$15** |  only **API**
+- **$15** | **API**
 - **$25** | **API** and **source code**
 
 ### Contact

@@ -41,6 +41,7 @@ or
 #### Response
 ```json
 {
+  "success": true,
   "gorgon": "03614110800077871364a0098ec5003de64ac949dbee11a283ae",
   "khronos": "1637367268"
 }

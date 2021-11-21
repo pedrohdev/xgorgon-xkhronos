@@ -21,7 +21,7 @@
 
 #### Request
 ```
-POST https://example.com/api/generate
+POST https://xgorgon-api.vercel.app/api/generate
 ```
 
 ```json

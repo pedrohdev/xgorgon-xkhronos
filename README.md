@@ -14,8 +14,6 @@
 
 ### Contact
 - [Telegram](https://t.me/pedrohenriquedev)
-- [Email](mailto:pedrohenriqueedeveloper@gmail.com)
-
 
 ### Docs 📕
 
